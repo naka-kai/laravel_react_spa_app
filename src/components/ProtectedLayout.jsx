@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useEffect } from "react";
 import { Navigate, Outlet } from "react-router-dom";
 import { NavLink } from "react-router-dom";
